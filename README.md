@@ -263,8 +263,3 @@ aws route53 delete-hosted-zone --id <HOSTED_ZONE_ID>
 | Route 53 Docs | https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html |
 | AWS Well-Architected | https://aws.amazon.com/architecture/well-architected/ |
 | Linux SSH Basics | https://linuxize.com/post/how-to-use-ssh-to-connect-to-a-remote-server/ |
-
----
-
-> 🎓 **You've just built a 3-tier AWS architecture!**
-> User → DNS → Web Server → Database. This exact pattern powers most production web applications on AWS. Great job! 🚀
